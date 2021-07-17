@@ -12,15 +12,9 @@
 
     "stack": "container",
 
-    "env": {
+    "env:"
 
-        "SESSION_NAME": {
-
-            "description": "Masukan String Session Pyrogram untuk assistant yang naik ke VCG",
-
-            "required": true
-
-        },
+        {,
 
         "BOT_TOKEN": {
 
